@@ -54,4 +54,4 @@ This structured design ensures that the bus rental application is efficient, use
 ## Class Diagram 
 The class diagram you've provided outlines the relationships and attributes of the key classes in the Bus Rental application. 
 
-![image](https://github.com/user-attachments/assets/7a8c6cc6-93a7-4de8-99a6-5e5f4f72f649)
+<img src="https://github.com/user-attachments/assets/7a8c6cc6-93a7-4de8-99a6-5e5f4f72f649" width="600" height="360">
