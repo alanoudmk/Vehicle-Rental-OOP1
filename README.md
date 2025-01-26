@@ -1,4 +1,4 @@
-# Vehicle-Rental-OOP1
+# Bus Rental OOP1
 
 - Project Overview
 - Class Diagram 
